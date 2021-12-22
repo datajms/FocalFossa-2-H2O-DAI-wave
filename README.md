@@ -1,6 +1,10 @@
 # Managing python projects on MacOs
 
 
+Note: 
+If you have a question, you can contact me by raising an issue on this repository: Click the `Issues` tab, Hit `New Issue`, Write down a title and your question and press `Submit new issue`.
+
+
 ## 1. Install pyenv to manage/install the right python version
 
 Prerequisite:
